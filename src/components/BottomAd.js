@@ -1,6 +1,7 @@
 import React from "react";
 
 const BottomAd = ({ imageUrl }) => {
+  
   return (
     <div
       style={{
