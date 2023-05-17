@@ -1,0 +1,35 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.3.0",
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "@material-ui/core": "^4.12.4",
+    "@mui/core": "^5.0.0-alpha.54",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.0.0-beta.2",
+    "@mui/styles": "^5.12.3",
+    "axios": "^1.4.0",
+    "os": "^0.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
